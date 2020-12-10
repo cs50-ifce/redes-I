@@ -1,8 +1,12 @@
 # Configuração de dispositivos
 
+![](./topologia_logica.jpg)
+
 Suponha que você trabalha no IFCE Maracanaú (Caixa verde) e precisa configurar os dispositivos (_switches_, roteadores e computadores) do _campus_ Maracanaú, bem como alguns equipamentos no _campus_ Fortaleza.
 
 Lembre-se que para configurar um _Switch_ ou Roteador, você precisará de um cabo de console.
+
+![](./topologia_fisica.jpg)
 
 # Descrição da Rede
 
